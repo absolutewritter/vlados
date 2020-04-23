@@ -1,5 +1,3 @@
-#I am 14 years old and just started to learn programming. If you believe in my future pls state I really need free lisense for #phpstorm. Thanks!
-
 Weclome to vladOs alpha!
  You need to have this things in your computer:
     1. fasm
